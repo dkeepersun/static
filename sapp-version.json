@@ -1,7 +1,7 @@
 {
   "version":"0.2",
   "download":{
-    "android":"",
-    "ios":""
+    "android":"android",
+    "ios":"ios"
   }
 }
