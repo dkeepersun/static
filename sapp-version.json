@@ -1,7 +1,10 @@
 {
+  "title":"娱乐世界",
   "version":"0.4.6",
   "download":{
     "android":"http://m.nowtest.net/sApp.apk",
     "ios":"http://m.nowtest.net/sApp.apk"
-  }
+  },
+  "apiurl":"http://api.nowtest.net/v1",
+  "live800Src":"https://vf75co.livechatvalue.com/chat/chatClient/chatbox.jsp?companyID=750615&configID=54214&jid=6827173752",
 }
